@@ -1,23 +1,23 @@
-# [Project Name] 🎯
+# Animal SOS🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Merry bytes
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Neeraja Nirmal  - Cochin University
+- Member 2: Sneha Sivakumar - Cochin University
+- Member 3: Maryam Mohamed Yahya - Cochin University
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Develop a web application, "Animal SOS," to streamline animal rescue, treatment, and adoption. The platform will allow admins to manage rescue requests, advertise healthy animals for adoption, and enable users to filter pets by type and location, view details, and sign up for adoption with ease.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Stray and injured animals often lack timely rescue, treatment, and structured adoption processes. Potential adopters face challenges in finding suitable pets due to unorganized platforms and limited information.
 
 ### The Solution
 [How are you solving it? Keep it fun!]
