@@ -105,7 +105,7 @@ For Hardware:
 
 ## Team Contributions
 - MARYAM MOHAMED YAHYA: frontend development
-- SNEHA SIVAKUMAR: frontend development
+- SNEHA SIVAKUMAR: backend development
 - NEERAJA NIRMAL: frontend development
 
 ---
