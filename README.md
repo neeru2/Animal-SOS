@@ -89,7 +89,7 @@ For Hardware:
 ![Components](Add photo of your components here)
 *List out all components shown*
 
-![Build](Add photos of build process here)
+<img width="307" alt="Screenshot2" src="https://github.com/user-attachments/assets/c7fc1175-9281-4f54-8cd9-282e8deeda16" />
 *Explain the build steps*
 
 ![Final](Add photo of final product here)
