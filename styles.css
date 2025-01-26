@@ -23,7 +23,7 @@ body {
 .btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #9dd1e6;
     color: white;
     text-decoration: none;
     border: none;
@@ -33,9 +33,29 @@ body {
 }
 
 .btn:hover {
-    background-color: #9dd1e6;
+    background-color: #e69dc3;
 }
 
 .admin-btn {
     background-color:#9dd1e6;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url('background.avif') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    position: absolute;
+    top: 10px; /* Adjust the distance from the top */
+    right: 10px; /* Adjust the distance from the right */
+    width: 200px; /* Adjust the size of the logo */
+    height: 200px; /* Maintain aspect ratio */
 }
