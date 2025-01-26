@@ -60,7 +60,7 @@ For Software:1.
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="850" alt="Screenshot one" src="https://github.com/user-attachments/assets/ec6aa331-2545-488b-a03e-5141782f182b" />
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
