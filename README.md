@@ -78,14 +78,7 @@ Admin Dashboard
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Team](Add photo of your team here)
@@ -106,16 +99,15 @@ For Hardware:
 
 https://github.com/user-attachments/assets/3f11c3f8-ceac-45d4-9db4-f859483758e5
 
+This video is a short demonstration of what the project does. Users can post images of animals in need. Admin approves the request. If the animal is rescued, it is offered shelter and is up for adoption. Interested people may adopt the animal.
 
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- MARYAM MOHAMED YAHYA: frontend development
-- SNEHA SIVAKUMAR: backend development
-- NEERAJA NIRMAL: frontend development
+- Maryam Mohamed Yahya: frontend development
+- Neeraja Nirmal: frontend development
+- Sneha Sivakumar: backend development
+
 
 ---
 Made with ❤️ at TinkerHub
