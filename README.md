@@ -61,7 +61,7 @@ For Software:
 
 # Screenshots (Add at least 3)
 <img width="850" alt="Screenshot one" src="https://github.com/user-attachments/assets/ec6aa331-2545-488b-a03e-5141782f182b" />
-*Add caption explaining what this shows*
+caption: admin login
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
