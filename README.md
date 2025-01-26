@@ -6,9 +6,9 @@
 
 
 ### Team Members
-- Member 1: Neeraja Nirmal - Cochin University
-- Member 2: Sneha Sivakumar - Cochin University
-- Member 3: Maryam Mohamed Yahya - Cochin University
+- Member 1: Neeraja Nirmal - Cochin University of Science and Technology
+- Member 2: Sneha Sivakumar - Cochin University of Science and Technology
+- Member 3: Maryam Mohamed Yahya - Cochin University of Science and Technology
 
 ### Hosted Project Link
 https://animalsos.netify.app
@@ -68,8 +68,8 @@ caption: admin login
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/481ce1d4-6356-4c74-9c70-dbfddb996eeb" />
 
 caption: rescue page
+<img width="307" alt="image" src="https://github.com/user-attachments/assets/7284768d-e453-46af-940a-3a273278b2e3" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
