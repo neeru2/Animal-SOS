@@ -60,17 +60,19 @@ For Software:1.
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="850" alt="Screenshot one" src="https://github.com/user-attachments/assets/ec6aa331-2545-488b-a03e-5141782f182b" />
-caption: admin login
+<img width="307" alt="Screenshot one" src="https://github.com/user-attachments/assets/ec6aa331-2545-488b-a03e-5141782f182b" />
+Admin Login
 
 <BR>
 
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/481ce1d4-6356-4c74-9c70-dbfddb996eeb" />
 
-caption: rescue page
+Rescue Page
+
+<BR>
 <img width="307" alt="image" src="https://github.com/user-attachments/assets/7284768d-e453-46af-940a-3a273278b2e3" />
 
-*Add caption explaining what this shows*
+Admin Dashboard
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
