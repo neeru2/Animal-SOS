@@ -100,7 +100,11 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
+
+https://github.com/user-attachments/assets/3f11c3f8-ceac-45d4-9db4-f859483758e5
+
+
 *Explain what the video demonstrates*
 
 # Additional Demos
